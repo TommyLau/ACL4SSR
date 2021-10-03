@@ -13,7 +13,7 @@ payload:
   - DOMAIN-SUFFIX,garena.com
   - DOMAIN-SUFFIX,hoyolab.com
   - DOMAIN-SUFFIX,inoreader.com
-  - DOMAIN-SUFFIX,ip138.com
+#  - DOMAIN-SUFFIX,ip138.com
   - DOMAIN-SUFFIX,ping.pe
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,teddysun.com
@@ -24,14 +24,14 @@ payload:
   - DOMAIN-SUFFIX,yunpanjingling.com
 
   # 国外域名
-  - DOMAIN-SUFFIX,eu
-  - DOMAIN-SUFFIX,hk
-  - DOMAIN-SUFFIX,jp
-  - DOMAIN-SUFFIX,kr
-  - DOMAIN-SUFFIX,sg
-  - DOMAIN-SUFFIX,tw
-  - DOMAIN-SUFFIX,uk
-  - DOMAIN-SUFFIX,us
+#  - DOMAIN-SUFFIX,eu
+#  - DOMAIN-SUFFIX,hk
+#  - DOMAIN-SUFFIX,jp
+#  - DOMAIN-SUFFIX,kr
+#  - DOMAIN-SUFFIX,sg
+#  - DOMAIN-SUFFIX,tw
+#  - DOMAIN-SUFFIX,uk
+#  - DOMAIN-SUFFIX,us
 
   # 国外域名关键字
   - DOMAIN-KEYWORD,1e100
